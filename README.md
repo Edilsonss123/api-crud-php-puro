@@ -3,7 +3,7 @@
 ## Sobre o Projeto
 Este é um projeto de CRUD para a entidade `People`, desenvolvido em **PHP puro**, sem o uso de frameworks. O sistema permite operações básicas como **criação, leitura, atualização e exclusão** de registros de pessoas.
 
-> 🚀 **Desenvolvido durante o final de semana de Carnaval, sem internet😓!**
+> 🚀 **Desenvolvido durante o final de semana de Carnaval, quando fiquei sem internet😓!**
 
 ## Funcionalidades
 ✅ Listar todas as pessoas cadastradas  
